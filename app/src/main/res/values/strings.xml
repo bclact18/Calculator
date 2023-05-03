@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Millradian Calculator</string>
+
+    <string-array name="units">
+        <item>M</item>
+        <item>Cm</item>
+        <item>Yd.</item>
+        <item>Ft.</item>
+        <item>In.</item>
+    </string-array>
+</resources>
